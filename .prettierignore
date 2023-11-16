@@ -1,0 +1,15 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+unpackage
+uni_modules
+uni.promisify.adaptor.js
+uni.scss
+pnpm-lock.yaml
+package.json
+manifest.json
+.hbuilderx/launch.json
+.eslintrc.js
+.gitignore
